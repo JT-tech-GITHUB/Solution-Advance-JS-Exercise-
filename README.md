@@ -1,6 +1,6 @@
 ### Solution-Advance-JS-Exercise-
 
-##< The solution of each question below is in seperated file >\
+##The solution of each question below is in seperated file 
 
 #Question 1:\
 Clean the room function: given an input of [1,2,4,591,392,391,2,5,10,2,1,1,1,20,20], make a function that organizes these into individual array\
