@@ -55,3 +55,22 @@ const decimalToHex = (input) => {
   });
   return hexResult.join(''); // return string
 }
+ console.log(colorCodeConverter('#32ac43'));
+ // (50,172,67)
+
+ console.log(colorCodeConverter('23,255,122'));
+ //#17FF7A
+
+ console.log(colorCodeConverter(23,255,122));
+ //#17FF7A
+
+
+ console.log(decimalToHex(2300));
+ //8FC
+
+ console.log(decimalToHex('2300'));
+ //8FC
+
+ console.log(hexToDecimal('7FFFFFFF'));
+ //2147483647
+
